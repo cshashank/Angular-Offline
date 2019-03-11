@@ -8,4 +8,8 @@ export class DCA_Model  {
 		this.remark1="remark1";
 		this.remark2="remark2";
 	}
-}
+
+/*	setApplicationId(new_application_id){
+		this.application_id = new_application_id;
+	}
+*/}
